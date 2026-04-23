@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> حبيبي إنت نور عيني
+> في ليالي الشوق تناديني
+> أنا روحي فيك تلاقيني
+> يا غرام القلب يحييني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
